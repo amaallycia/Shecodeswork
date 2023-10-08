@@ -91,6 +91,9 @@ p {
 }
 @media (max-width: 500px) {
   body {
-    background: #6c63ff;
+    background: #f2f2f5;
+  }
+  p {
+    background: #0a0a0c;
   }
 }
