@@ -6,12 +6,14 @@
 
 body {
   margin-top: 100px;
+  background: #0a0a0c;
 }
 
 h1,
 h2,
 h3 {
   margin: 0;
+  color: orangered;
 }
 
 h1 {
@@ -30,6 +32,7 @@ h3 {
 p {
   font-size: 18px;
   line-height: 1.5;
+  color: #f5f2fe;
 }
 
 .navigation-links {
@@ -85,4 +88,9 @@ p {
 
 .email-link:hover {
   text-decoration: underline;
+}
+@media (max-width: 500px) {
+  body {
+    background: yellow;
+  }
 }
