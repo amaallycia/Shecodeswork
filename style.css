@@ -91,6 +91,6 @@ p {
 }
 @media (max-width: 500px) {
   body {
-    background: yellow;
+    background: #6c63ff;
   }
 }
